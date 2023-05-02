@@ -1,4 +1,4 @@
-# **Cardium: Heart Disease Predictor**
+# **StrokePredic: Heart Disease Predictor**
 ![](https://media.istockphoto.com/vectors/heart-isometric-health-care-concept-red-shape-and-heartbeat-vector-id1183325543?k=20&m=1183325543&s=612x612&w=0&h=8AFG-3S4WTuK6RaCvGKtOy2ndQFDhwTrA36XbDoVOrQ=)
 * Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worldwide. Four out of 5CVD deaths are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 years of age. Heart failure is a common event caused by CVDs and this dataset contains 11 features that can be used to predict a possible heart disease.
 
@@ -25,14 +25,14 @@ It is an classification problem where given a set of features we need to predict
 Since it is an classification problem we will use AUC-ROC, F1-score, Accuracy, Precision, Recall, and Confusion Matrix.
 
 ### Website Interface:
-![image](https://user-images.githubusercontent.com/86458423/166304964-db302edd-649d-46eb-9760-aad7b196e950.png)
+![image](https://raw.githubusercontent.com/div-vik/Heart-Stroke-Prediction/main/static/image/Screenshot%20from%202023-05-02%2008-50-51.png)
 
 Explore different functionalities using nav-bar
 
-![image](https://user-images.githubusercontent.com/86458423/166305153-118eb910-aec7-4bc4-b223-641c1463fa0c.png)
+![image](https://raw.githubusercontent.com/div-vik/Heart-Stroke-Prediction/main/static/image/Screenshot%20from%202023-05-02%2008-51-09.png)
 
 Enter details for prediction in the form
 
-![image](https://user-images.githubusercontent.com/86458423/166305267-95264d16-e9e5-4c7c-88bd-419672af00c4.png)
+![image](https://raw.githubusercontent.com/div-vik/Heart-Stroke-Prediction/main/static/image/Screenshot%20from%202023-05-02%2008-50-10.png)
 
 Know your Results!!!
